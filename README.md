@@ -72,12 +72,7 @@ Multi-Agent 协作生成个性化训练计划，GraphRAG 做伤病推理，混�
 
 <div align="center">
 
-### GitHub 数据
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Humble-moon&show_icons=true&count_private=true&bg_color=090d12&title_color=f2764a&text_color=e9e6df&icon_color=6fa88b&border_color=263340&border_radius=6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humble-moon&layout=compact&langs_count=8&bg_color=090d12&title_color=f2764a&text_color=e9e6df&border_color=263340&border_radius=6" />
-
-<br /><br />
+### 连续打卡
 
 <img src="https://streak-stats.demolab.com?user=Humble-moon&background=090d12&border=263340&border_radius=6&ring=f2764a&fire=f2764a&currStreakLabel=6fa88b&sideLabels=e9e6df&dates=68727b&currStreakNum=e9e6df&sideNums=e9e6df" />
 
