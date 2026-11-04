@@ -17,11 +17,11 @@ AI 应用开发 · 数据分析
 ### 技术栈
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,neo4j,docker,git,linux&theme=dark&perline=8" />
-  <img alt="Python, FastAPI, PostgreSQL, Redis, Neo4j, Docker, Git, Linux" src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,neo4j,docker,git,linux&theme=light&perline=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,git,linux&theme=dark&perline=7" />
+  <img alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, Linux" src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,git,linux&theme=light&perline=7" />
 </picture>
 
-数据分析：Pandas · SQL · Power BI · Excel
+**数据分析**：`Pandas` · `SQL` · `Power BI` · `Excel`
 
 ---
 
