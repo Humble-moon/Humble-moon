@@ -4,8 +4,7 @@
 
 # gakki <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30" alt="👋" />
 
-<img alt="AI 应用开发 · 数据分析" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=C2410C&center=true&vCenter=true&width=640&height=40&lines=AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90;Python%20%C2%B7%20Java%20%C2%B7%20SQL;%E5%85%88%E6%8A%8A%E9%97%AE%E9%A2%98%E9%97%AE%E6%B8%85%E6%A5%9A%EF%BC%8C%E5%86%8D%E6%8A%8A%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%87%BA%E6%9D%A5#gh-light-mode-only" />
-<img alt="AI 应用开发 · 数据分析" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=F2764A&center=true&vCenter=true&width=640&height=40&lines=AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90;Python%20%C2%B7%20Java%20%C2%B7%20SQL;%E5%85%88%E6%8A%8A%E9%97%AE%E9%A2%98%E9%97%AE%E6%B8%85%E6%A5%9A%EF%BC%8C%E5%86%8D%E6%8A%8A%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%87%BA%E6%9D%A5#gh-dark-mode-only" />
+<img alt="AI 应用开发 · 数据分析" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=F2764A&center=true&vCenter=true&width=640&height=40&lines=AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90;Python%20%C2%B7%20Java%20%C2%B7%20SQL;%E5%85%88%E6%8A%8A%E9%97%AE%E9%A2%98%E9%97%AE%E6%B8%85%E6%A5%9A%EF%BC%8C%E5%86%8D%E6%8A%8A%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%87%BA%E6%9D%A5" />
 
 > *Where there is a will, there is a way.*
 
@@ -23,8 +22,8 @@
 
 ### 🛠️ 技术栈
 
-<img alt="Python, Java, FastAPI, PostgreSQL, Redis, Docker, Git, Linux, Vue" src="https://skillicons.dev/icons?i=py,java,fastapi,postgres,redis,docker,git,linux,vue&theme=light&perline=9#gh-light-mode-only" />
-<img alt="Python, Java, FastAPI, PostgreSQL, Redis, Docker, Git, Linux, Vue" src="https://skillicons.dev/icons?i=py,java,fastapi,postgres,redis,docker,git,linux,vue&theme=dark&perline=9#gh-dark-mode-only" />
+![Python, Java, FastAPI, PostgreSQL, Redis, Docker, Git, Linux, Vue](https://skillicons.dev/icons?i=py,java,fastapi,postgres,redis,docker,git,linux,vue&theme=light&perline=9#gh-light-mode-only)
+![Python, Java, FastAPI, PostgreSQL, Redis, Docker, Git, Linux, Vue](https://skillicons.dev/icons?i=py,java,fastapi,postgres,redis,docker,git,linux,vue&theme=dark&perline=9#gh-dark-mode-only)
 
 <div align="center">
 
@@ -60,37 +59,21 @@
 
 ---
 
-<div align="center">
-
 ### 📊 数据
 
-<img alt="GitHub 综合统计" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble-moon&theme=default#gh-light-mode-only" />
-<img alt="GitHub 综合统计" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble-moon&theme=radical#gh-dark-mode-only" />
+![GitHub 综合统计](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble-moon&theme=default#gh-light-mode-only)
+![GitHub 综合统计](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble-moon&theme=radical#gh-dark-mode-only)
 
-<table>
-<tr>
-<td>
-<img alt="连续贡献" src="https://streak-stats.demolab.com?user=Humble-moon&hide_border=true#gh-light-mode-only" />
-<img alt="连续贡献" src="https://streak-stats.demolab.com?user=Humble-moon&theme=dark&hide_border=true#gh-dark-mode-only" />
-</td>
-<td>
-<img alt="主要语言" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humble-moon&theme=default#gh-light-mode-only" />
-<img alt="主要语言" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humble-moon&theme=radical#gh-dark-mode-only" />
-</td>
-</tr>
-</table>
-
-</div>
+![连续贡献](https://streak-stats.demolab.com?user=Humble-moon&hide_border=true#gh-light-mode-only)
+![连续贡献](https://streak-stats.demolab.com?user=Humble-moon&theme=dark&hide_border=true#gh-dark-mode-only)
 
 ---
 
-<div align="center">
-
 ### 🐍 贡献
 
-<img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/Humble-moon/Humble-moon/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-<img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/Humble-moon/Humble-moon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+![贡献贪吃蛇](https://raw.githubusercontent.com/Humble-moon/Humble-moon/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![贡献贪吃蛇](https://raw.githubusercontent.com/Humble-moon/Humble-moon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-</div>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2764A,50:C2410C,100:7C2D12&height=120&section=footer&animation=fadeIn" alt="" width="100%" />
