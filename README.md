@@ -32,6 +32,7 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
 <img src="https://img.shields.io/badge/Agentic%20RAG-C2410C?style=for-the-badge" alt="Agentic RAG" />
 <img src="https://img.shields.io/badge/Multi--Agent-F2764A?style=for-the-badge" alt="Multi-Agent" />
