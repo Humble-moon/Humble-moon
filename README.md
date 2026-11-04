@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=F2764A&background=090D12&center=true&vCenter=true&width=640&height=40&lines=AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90;Multi-Agent%20%E7%BC%96%E6%8E%92%20%2F%20RAG%20%2F%20%E5%8F%AF%E5%A4%8D%E6%A0%B8%E7%9A%84%E7%BB%93%E8%AE%BA;%E6%8A%8A%E4%B8%9A%E5%8A%A1%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E8%83%BD%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%B3%BB%E7%BB%9F" alt="AI 应用开发 · 数据分析" />
 
-> **代码和肌肉一样骗不了人 —— 练没练，拆开看就知道。**
+> *Where there is a will, there is a way.*
 
 <br />
 
@@ -18,11 +18,9 @@
 
 ### 关于我
 
-把业务问题拆成能跑起来的系统 —— 从数据清洗、指标口径，到多 Agent 编排与检索。
+AI 应用开发与数据分析。
 
-比起"演示时好看"，我更在意拆开看还站不站得住：结论能不能复核、边界有没有写清、失败路径有没有兜底。
-
-**现在在做**：多 Agent 协作的训练计划系统 · Agentic RAG 检索链路 · 训练数据的指标口径与归因。
+做项目时更在意三件事：问题有没有问对、结论能不能复核、哪里还没做好也说清楚。
 
 ---
 
@@ -75,13 +73,5 @@ Multi-Agent 协作生成个性化训练计划，GraphRAG 做伤病推理，混�
 ### 连续打卡
 
 <img src="https://streak-stats.demolab.com?user=Humble-moon&background=090d12&border=263340&border_radius=6&ring=f2764a&fire=f2764a&currStreakLabel=6fa88b&sideLabels=e9e6df&dates=68727b&currStreakNum=e9e6df&sideNums=e9e6df" />
-
-</div>
-
----
-
-<div align="center">
-
-**Keep shipping. Keep showing your work.**
 
 </div>
