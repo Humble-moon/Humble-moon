@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:C2410C,100:F2764A&height=140&section=header&animation=fadeIn" alt="" width="100%" />
+
 # gakki <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30" alt="👋" />
 
 <picture>
@@ -7,9 +11,11 @@
 
 > *Where there is a will, there is a way.*
 
+</div>
+
 ---
 
-### 关于我
+### 👤 关于我
 
 写 Python 和 Java，也写 SQL，做 AI 应用和数据分析。
 
@@ -17,18 +23,29 @@
 
 ---
 
-### 技术栈
+### 🛠️ 技术栈
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,fastapi,postgres,redis,docker,git,linux,vue&theme=dark&perline=9" />
   <img alt="Python, Java, FastAPI, PostgreSQL, Redis, Docker, Git, Linux, Vue" src="https://skillicons.dev/icons?i=py,java,fastapi,postgres,redis,docker,git,linux,vue&theme=light&perline=9" />
 </picture>
 
-**数据分析**：`Pandas` · `SQL` · `Power BI` · `Excel`
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Agentic%20RAG-C2410C?style=for-the-badge" alt="Agentic RAG" />
+<img src="https://img.shields.io/badge/Multi--Agent-F2764A?style=for-the-badge" alt="Multi-Agent" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+</div>
 
 ---
 
-### 项目
+### 🚀 项目
 
 **[IRON MIND · AI 健身私教](https://github.com/Humble-moon/gakki-ai-fitness)**  
 多 Agent 协作生成训练计划，知识问答带来源引用，伤病相关推理走图谱。安全审查与生成链路分开，LangGraph 编排，SSE 流式输出。
@@ -48,9 +65,43 @@
 
 <div align="center">
 
+### 📊 数据
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble-moon&theme=radical" />
+  <img alt="GitHub 综合统计" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble-moon&theme=default" />
+</picture>
+
+<table>
+<tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Humble-moon&theme=dark&hide_border=true" />
+  <img alt="连续贡献" src="https://streak-stats.demolab.com?user=Humble-moon&hide_border=true" />
+</picture>
+</td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humble-moon&theme=radical" />
+  <img alt="主要语言" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humble-moon&theme=default" />
+</picture>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 贡献
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Humble-moon/Humble-moon/output/github-contribution-grid-snake-dark.svg" />
   <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/Humble-moon/Humble-moon/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2764A,50:C2410C,100:7C2D12&height=120&section=footer&animation=fadeIn" alt="" width="100%" />
